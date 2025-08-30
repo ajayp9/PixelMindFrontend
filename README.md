@@ -2,6 +2,11 @@
 
 A responsive e-commerce product listing page built with Next.js, featuring product search, filtering, detailed views, and a mock product addition form.
 
+## 🚀 Live Demo
+   https://pixel-mind-frontend.vercel.app/
+   
+---
+
 ## Features
 
 - Product grid display with images, names, prices, and descriptions
@@ -34,7 +39,7 @@ cd ecommerce-app
             npm run dev
 ---
  ## 🏗️ Project Structure
-            ecommerce-app/
+ ecommerce-app/
 ├── app/
 │   ├── components/          # Reusable React components
 │   │   ├── ProductCard.js   # Product display card
